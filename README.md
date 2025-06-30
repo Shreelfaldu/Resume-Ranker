@@ -47,4 +47,10 @@ cd resume-ranker
 pip install -r requirements.txt
 
 streamlit run resume_ranker.py
+```
+## 🌐 Connect with Me
 
+- 🔗 Portfolio: [shreel.framer.ai](https://shreel.framer.ai)
+- 💼 LinkedIn: [linkedin.com/in/shreelfaldu](https://linkedin.com/in/shreelfaldu)
+- 📷 Instagram: [@shreel.faldu](https://instagram.com/shreel.faldu)
+- 📧 Email: shreel.faldu121124@marwadiuniversity.ac.in
